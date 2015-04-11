@@ -1,0 +1,16 @@
+{
+  "name": "EvenOdd",
+  "version": "0.1.0",
+  "description": "testowy plugin Jana",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.13.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Jan",
+      "email": "jan@industreal.pl",
+      "homepage": ""
+    }
+  ]
+}

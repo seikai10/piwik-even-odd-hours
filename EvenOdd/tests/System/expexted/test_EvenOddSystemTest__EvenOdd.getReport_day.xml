@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<result>
+        <row>
+                <label>Even</label>
+                <value>3</value>
+        </row>
+        <row>
+                <label>Uneven</label>
+                <value>4</value>
+        </row>
+</result>
